@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna V</h1>
 <h3 align="center">Mastermind of Modern Data Engineering: Orchestrating Cloud Solutions & Pioneering Data Innovations</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshikrish2015&label=Profile%20views&color=0e75b6&style=flat" alt="vamshikrish2015" /> </p>
+
 <p align="left"> <a href="https://twitter.com/vamshikrish2015" target="blank"><img src="https://img.shields.io/twitter/follow/vamshikrish2015?logo=twitter&style=for-the-badge" alt="vamshikrish2015" /></a> </p>
 
 - 🔭 I’m currently working on **developing a next-generation data analytics platform that harnesses the power of machine learning to provide real-time insights, optimize business processes, and drive data-driven decision-making across multiple industries.**
@@ -22,6 +24,10 @@
 - 📄 Know about my experiences [https://scarlet-saundra-28.tiiny.site](https://scarlet-saundra-28.tiiny.site)
 
 - ⚡ Fun fact **The first time I tried to automate a data pipeline, I accidentally created a script that sent me 3,000 email notifications in an hour. Lesson learned: Always test with a smaller dataset first!**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
